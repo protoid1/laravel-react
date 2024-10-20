@@ -1,0 +1,13 @@
+[19/10/2024 12:56]
+pada check point ini gw membuat sebuah project laravel + react dengan metode inertia object pembelajaran pada youtube :
+https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'11:49 / 5:44:18'
+step yang sudah di lakukan adalah :
+1.#bash composer create-project laravel/laravel laravel-react
+2.#bash composer require breeze
+3.#bash composer breeze:install > react>dark>phpunitest
+------------------------------------------------------------------
+[20/10/2024 11:47]
+pada pembelajaran kali ini masih penjelasan setiap component recat ke laravel 
+menggunaakan inertia JS.
+pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'48:49 / 5:44:18' 
+sudah berhasil membuat models,factory project dan task
