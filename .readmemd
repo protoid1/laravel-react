@@ -11,3 +11,12 @@ pada pembelajaran kali ini masih penjelasan setiap component recat ke laravel
 menggunaakan inertia JS.
 pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'48:49 / 5:44:18' 
 sudah berhasil membuat models,factory project dan task
+
+------------------------------------------------------------------
+[21/10/2024]
+pada pembelajaran kali ini gw membuat 3 controller tambahan dan pengupdatean web.php terkait routing
+1.User controller
+2.Project controller
+3.Task controller
+dan pada web.php(menambahkan logic redirect ke login ketika akses url  /dashboard untuk guest)
+pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'54:03 / 5:44:18' 
