@@ -20,3 +20,11 @@ pada pembelajaran kali ini gw membuat 3 controller tambahan dan pengupdatean web
 3.Task controller
 dan pada web.php(menambahkan logic redirect ke login ketika akses url  /dashboard untuk guest)
 pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'54:03 / 5:44:18' 
+------------------------------------------------------------------------------------------------------------------------
+[22/10/2024]
+pada pembelajaran kali ini menambahkan controller ke 3 object yaitu Project,Task,dan User
+lalu ada pengeditan config pada editorconfig untuk memberikan 1 nbsp setiap tag html (formating).
+nah pada point pembuatan controller ini juga di sertakan juga pembuatan 2 resource yaitu Project dan Task.
+nah concenrn di resources ini ketika dia tidak di determenasikan kolumnya otomatis ketika di print akan mengeluarkan kolom semua yang di joinkan
+oleh karena itu perlu sekli di detaikan di resource ketika kolom apa saja yang ingin di definisikan .
+pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'1:14:37 / 5:44:18' 
