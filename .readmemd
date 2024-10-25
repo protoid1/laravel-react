@@ -28,3 +28,9 @@ nah pada point pembuatan controller ini juga di sertakan juga pembuatan 2 resour
 nah concenrn di resources ini ketika dia tidak di determenasikan kolumnya otomatis ketika di print akan mengeluarkan kolom semua yang di joinkan
 oleh karena itu perlu sekli di detaikan di resource ketika kolom apa saja yang ingin di definisikan .
 pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'1:14:37 / 5:44:18' 
+-----------------------------------------------------------------------------------------------------------------------
+[24/10/2024]    
+pada pembelajaran ini kita membuat resource untuk UserResouce untuk mengspesifik ouput kolom apa saja yang di output.
+serta merubah tampilan ui untuk menu Project secara table.
+dan membuat Pagination.jsx 
+pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'1:26:42 / 5:44:18' 
