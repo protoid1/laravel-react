@@ -34,3 +34,7 @@ pada pembelajaran ini kita membuat resource untuk UserResouce untuk mengspesifik
 serta merubah tampilan ui untuk menu Project secara table.
 dan membuat Pagination.jsx 
 pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'1:26:42 / 5:44:18' 
+----------------------------------------------------------------------------------------------------------------------
+[25/10/2024]
+pada pembelajaran kali ini mengintegrasikan antara index.jsx dengan pagination.jsx yang mana membuat tampilkan paging di footer.
+pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'1:32:07 / 5:44:18'
