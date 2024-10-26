@@ -38,3 +38,9 @@ pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu che
 [25/10/2024]
 pada pembelajaran kali ini mengintegrasikan antara index.jsx dengan pagination.jsx yang mana membuat tampilkan paging di footer.
 pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'1:32:07 / 5:44:18'
+----------------------------------------------------------------------------------------------------------------------
+[26/10/2024]
+pada pembelajaran kali ini , membuat varable constant di file constant.jsx yang ini isi file ini untuk membuat sebuah variable final untukketerangan status dan prioritas
+ini bisa di index pemanggilannya dengan memanggi nama variable constantnya .
+tidak hanya itu aku juga membuat kelas baru untuk (select option SelectInput.jsx) di integrasikan ke index yang mana detail nya itu cukup rumit buat aku yang belum memahami react.
+pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'1:47:23 / 5:44:18'
