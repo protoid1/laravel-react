@@ -44,3 +44,16 @@ pada pembelajaran kali ini , membuat varable constant di file constant.jsx yang 
 ini bisa di index pemanggilannya dengan memanggi nama variable constantnya .
 tidak hanya itu aku juga membuat kelas baru untuk (select option SelectInput.jsx) di integrasikan ke index yang mana detail nya itu cukup rumit buat aku yang belum memahami react.
 pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'1:47:23 / 5:44:18'
+-----------------------------------------------------------------------------------------------------------------------
+[28/10/2024]
+pada pembelajaran kali ini , membuat logika antara FE dan BE terkait dengen kolom filer dan sorting
+ada filter by input type name dan ada filter by status.
+lalu kita membuat logika srip pada ProjectController nya .
+tidak hanya itu di pembelajran kali ini , juga melakukan sorting antara setiap kolom - kolom nya . selanjuta dalam configurasi icon2 di setaip kolom header itu ada proses install package
+spesialisasi react.
+pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'2:09:18 / 5:44:18'
+----------------------------------------------------------------------------------------------------------------------
+[31/10/2024 14:58:00]
+pada pembelanjaran kali ini, membuat routing inertia dan membuat akses menu tasks. banya sekali perubahan mulai dari pembuatan Task/Index.jsx lalu membuat logika dedngan konsep
+mirip dengan Projects .
+pada chanel youtube https://www.youtube.com/watch?v=VrQRa-afCAk dengan waktu checkpoint pada durasi :'2:27:39 / 5:44:18'
